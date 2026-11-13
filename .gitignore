@@ -1,0 +1,5 @@
+config.h
+build/
+.pio/
+.vscode/
+*.bin
